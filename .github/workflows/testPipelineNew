@@ -1,4 +1,4 @@
-name: MVC Testing Pipeline
+name: Old MVC Testing Pipeline
 
 on:
   pull_request:
