@@ -1,9 +1,8 @@
-name: MVC Testing Pipeline
+name: Old MVC Testing Pipeline
 
 on:
   pull_request:
     branches:
-      - develop
       - release-1.1.0
 
 jobs:
